@@ -1,4 +1,4 @@
-![N予備校のロゴ](fde20fd0-private.png)
+![N予備校のロゴ](fde20fd0-private.png){:height="36px" width="36px"}
 
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/1500362884/script?w=640&h=360&from=3"></script><noscript><a href="https://www.nicovideo.jp/watch/1500362884?from=3">N予備校夏期講習2017CM</a></noscript>
 
