@@ -6,8 +6,6 @@
 
 <iframe src="https://www.openprocessing.org/sketch/825164/embed/" width="400" height="300"></iframe>
 
-<iframe width="312" height="176" src="https://live.nicovideo.jp/embed/lv323789498" scrolling="no" style="border:solid 1px #d0d0d0; background-color: #f6f6f6;" frameborder="0"><a href="https://live.nicovideo.jp/watch/lv323789498">N予備校「プログラミング」公開授業</a></iframe>
-
 # About
 N予備校の「[就職で有利になるポートフォリオサイトの作り方
 ~ Open Processingで学ぶクリエイティブコーディング ~](https://www.nnn.ed.nico/contents/guides/3835)」の受講リポジトリ
